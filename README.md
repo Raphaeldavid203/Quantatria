@@ -19,6 +19,9 @@ Quantatria Research Capital aims to blend quantitative and qualitative approache
 
 Here you will find a list of projects that demonstrate our approach to research and development in financial strategies. Each project is designed to explore different aspects of quantitative finance and discretionary analysis.
 
+**[Quantatria Research Capital](https://github.com/Raphaeldavid203/Quantatria)** - My initiative in applying quantitative research to develop advanced financial models.
+
+
 ## Investment Strategies
 
 Explore our innovative investment strategies, each designed to tackle specific market conditions and optimize portfolio performance.
